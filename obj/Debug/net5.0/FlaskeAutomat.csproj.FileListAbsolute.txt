@@ -1,0 +1,16 @@
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.exe
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.deps.json
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.runtimeconfig.json
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.runtimeconfig.dev.json
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.dll
+C:\Users\drit0046\VSCode\FlaskeAutomat\bin\Debug\net5.0\FlaskeAutomat.pdb
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.csproj.AssemblyReference.cache
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.AssemblyInfoInputs.cache
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.AssemblyInfo.cs
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.csproj.CoreCompileInputs.cache
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.dll
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\refint\FlaskeAutomat.dll
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.pdb
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\FlaskeAutomat.genruntimeconfig.cache
+C:\Users\drit0046\VSCode\FlaskeAutomat\obj\Debug\net5.0\ref\FlaskeAutomat.dll

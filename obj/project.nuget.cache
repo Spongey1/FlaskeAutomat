@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ed3SvxMZ93Hlhu18puI9LnU2c8JGhe6ylO3o1N2S8+TjehZnVHNP9ON5onswJpUH2sGAznptaIt1KAeKFoPIiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drit0046\\VSCode\\FlaskeAutomat\\FlaskeAutomat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drit0046\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
